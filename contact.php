@@ -4,11 +4,11 @@
 <div class="container my-2">
     <div class="card">
         <div class="card-header">
-            <h1>Hello World!</h1>
+            <h1>Conat Page!</h1>
         </div>
 
         <div class="card-body">
-            <h1>Body Home Page</h1>
+            <h1>Body Contact Page</h1>
         </div>
     </div>
 </div>
